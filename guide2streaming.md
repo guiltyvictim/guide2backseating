@@ -21,6 +21,7 @@ Here are the tools we'llbe using:
 	- Manage our assets including avatars, title cards, fonts etc.
 
 ##Preparations
+
 Recording voices in separate tracks:
 
 1. Invite Craigbot to voice chat channel
@@ -38,3 +39,10 @@ Recording clean game audio:
 	- Note: Track 1 will be the mixed track, allowing the editor to reference later the timing of the voice and game audio. This is important as things like drop frames and other issues can cause video and audio to go out of sync sometimes
 - Follow [this guide](https://www.youtube.com/watch?v=SyvJDtmw_Z8) to record your game audio during the stream
 
+Further reading re: audio settings:
+
+- [Best Discord Voice Settings For Streaming, Podcasting, and Everything else](https://www.youtube.com/watch?v=qUqWjQZU1Ts)
+- [How To Set Your Microphone's Gain / Level for Beginners](https://www.youtube.com/watch?v=1l86SOlxyps)
+	- This is more for recording, but still useful for us
+- [10 Tips for Better Sounding Vocal Recordings for Beginners](https://www.youtube.com/watch?v=Ty8YLqOmbV4)
+	- General tips on how to setup your physical space to get the best sound
