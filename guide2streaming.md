@@ -1,4 +1,5 @@
 #Guide 2 Streaming and Editing
+
 To ensure we have the best audio quality for editing purposes, here are some resources and general outline of our we'll record our streams moving forward.
 
 One of the main issues we face right now is uneven loudness for each person across all streams. This is caused by a variety of issues, from differences in microphone settings to individual volume settings by whoever is hosting the streams.
